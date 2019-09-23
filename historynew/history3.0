@@ -1,0 +1,151 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox $
+    4  kill firefox
+    5  kill firefox $
+    6  kill firefox
+    7  kil firefox
+    8  git -upload
+    9  nano git -upload
+   10  nanogit -upload
+   11  nano git-upload
+   12  git-upload
+   13  git-upload &
+   14  nano git-upload
+   15  ls -l
+   16  chmod 755 git-upload
+   17  ls -l
+   18  history
+   19  ls -l
+   20  run
+   21  run git-upload
+   22  git-upload $
+   23  ./git-upload
+   24  ls
+   25  git-upload 
+   26  sh git-upload 
+   27  git-upload 
+   28  git-upload.sh
+   29  echo $path
+   30  echo $PATH
+   31  whereis git-upload.sh
+   32  whereis git-upload
+   33  ./git-upload
+   34* cat git-upload 2
+   35  ./git-upload a b
+   36  ./git-upload 20190923_15_15
+   37  nano git-upload 
+   38  ./git-upload 20190923_15_15
+   39  pwd
+   40  ls -l
+   41* 
+   42  git clone
+   43  git clone https://github.com/Kitsoroko/rtr105
+   44  ls -l
+   45  mv git-upload 
+   46  mv git-upload rtr105
+   47  ls -l
+   48  cd rtr105/
+   49  ls -l
+   50  history > history3.0
+   51  ls -l
+   52  ./git-upload 20190923_15_15
+   53  mkdir darbi
+   54  ls
+   55  cd darbi
+   56  nano element.c
+   57  gcc element.c 
+   58  ls -l
+   59  nano element.c
+   60  gcc element.c 
+   61  a.out
+   62* 
+   63  gcc element.c -o prg1
+   64  ls -l
+   65  ./prg1
+   66  nano element.c
+   67  ls -l
+   68  gcc element.c -o prg2
+   69  ls
+   70  ./prg2
+   71  nano element.c
+   72  gcc element.c -o prg3
+   73  ls
+   74  cp element.c hello.c
+   75  nanp hello.c
+   76  nano hello.c
+   77  gcc hello.c -o prg4
+   78  nano hello.c
+   79  gcc hello.c -o prg5
+   80  nano hello.c
+   81  gcc hello.c -o prg5
+   82  nano hello.c
+   83  gcc hello.c -o prg5
+   84  ls
+   85  ./prg5
+   86  rm prg1
+   87  rm prg2
+   88  rm prg3
+   89  rm prg4
+   90  ls
+   91  rm prg*
+   92  nano hello.c
+   93  cd ..
+   94  ./git-upload 2.0.txt
+   95  ssh -X x171RMC104@213.175.92.22
+   96  ..
+   97  //
+   98  cd ..
+   99  mc
+  100  ls
+  101  cd rtr105
+  102  cd darbi
+  103  ls
+  104  cp hello.c 02.c
+  105  ls
+  106  nano 02.c
+  107  gcc 02.c
+  108  ls
+  109  /a.out
+  110  a.out
+  111  ls
+  112  ./02.c
+  113  gcc 02.c -o prg1
+  114  ./a.out
+  115  nano 02.c
+  116  gcc 02.c -o prg1
+  117  ./a.out
+  118  nano 02.c
+  119  gcc 02.c -o prg1
+  120  gcc 02.c -o prg2
+  121  ls
+  122  ./a.out
+  123  nano 02.c
+  124  gcc 02.c -o prg2
+  125  ./a.out
+  126  gcc 02.c -o prg3
+  127  gcc 02.c
+  128  ./a.out
+  129  nano 02.c
+  130  gcc 02.c
+  131  ./a.out
+  132  nano 02.c
+  133  gcc 02.c
+  134  ./a.out
+  135  nano 02.c
+  136  gcc 02.c
+  137  nano 02.c
+  138  gcc 02.c
+  139  ./a.out
+  140  nano 02.c
+  141  ls
+  142  ./git-upload 2.0.txt
+  143  ls
+  144  cd ..
+  145  ls
+  146  ./git-upload 2.0.txt
+  147  mkdir history
+  148  mkdir historynew
+  149  cd historynew
+  150  history
+  151  history > history3.0
