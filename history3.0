@@ -1,0 +1,50 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox $
+    4  kill firefox
+    5  kill firefox $
+    6  kill firefox
+    7  kil firefox
+    8  git -upload
+    9  nano git -upload
+   10  nanogit -upload
+   11  nano git-upload
+   12  git-upload
+   13  git-upload &
+   14  nano git-upload
+   15  ls -l
+   16  chmod 755 git-upload
+   17  ls -l
+   18  history
+   19  ls -l
+   20  run
+   21  run git-upload
+   22  git-upload $
+   23  ./git-upload
+   24  ls
+   25  git-upload 
+   26  sh git-upload 
+   27  git-upload 
+   28  git-upload.sh
+   29  echo $path
+   30  echo $PATH
+   31  whereis git-upload.sh
+   32  whereis git-upload
+   33  ./git-upload
+   34* cat git-upload 2
+   35  ./git-upload a b
+   36  ./git-upload 20190923_15_15
+   37  nano git-upload 
+   38  ./git-upload 20190923_15_15
+   39  pwd
+   40  ls -l
+   41* 
+   42  git clone
+   43  git clone https://github.com/Kitsoroko/rtr105
+   44  ls -l
+   45  mv git-upload 
+   46  mv git-upload rtr105
+   47  ls -l
+   48  cd rtr105/
+   49  ls -l
+   50  history > history3.0
